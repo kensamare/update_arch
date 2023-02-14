@@ -1,0 +1,1 @@
+{"className":"WindModel","fileName":"wind_model.dart","imports":[],"fields":[{"json_field":"speed","name":"speed","isSnakeCase":true,"type":"double?"},{"json_field":"deg","name":"deg","isSnakeCase":true,"type":"int?"},{"json_field":"gust","name":"gust","isSnakeCase":true,"type":"double?"}]}

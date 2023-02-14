@@ -1,0 +1,1 @@
+{"className":"CoordModel","fileName":"coord_model.dart","imports":[],"fields":[{"json_field":"lat","name":"lat","isSnakeCase":true,"type":"double?"},{"json_field":"lon","name":"lon","isSnakeCase":true,"type":"double?"}]}

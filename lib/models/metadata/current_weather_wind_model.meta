@@ -1,0 +1,1 @@
+{"className":"CurrentWeatherWindModel","fileName":"current_weather_wind_model.dart","imports":[],"fields":[{"json_field":"speed","name":"speed","isSnakeCase":true,"type":"int?"},{"json_field":"deg","name":"deg","isSnakeCase":true,"type":"int?"}]}
